@@ -1,0 +1,22 @@
+body{
+    background-color: aquamarine;
+    text-align: center;
+}
+.line{
+    width: 500px;
+    height: 10px;
+    margin: 8px auto;
+    background-color: aqua;
+}
+img{
+    height: 50px;
+    width:  50px;
+}
+#my c arusel{
+    background-color: red;
+}
+
+#myCarousel img{
+    height: 300px;
+    margin-top: 35px;
+}
